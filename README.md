@@ -1,16 +1,21 @@
-## Hi there 👋
+# hi, i'm jess :3c
 
-<!--
-**segpup/segpup** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+platform engineer who likes building things that are interesting and maybe a little cursed
 
-Here are some ideas to get you started:
+## what i'm into
+- systems programming (rust, go)
+- distributed systems & data infrastructure
+- breaking things to understand how they work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## what goes here
+- experiments with language internals
+- oss contributions
+- projects that explore the boundaries of what's possible
+- things that technically work (emphasis on technically)
+
+most projects here are for learning and exploration. if something looks weird, that's intentional
+
+---
+*currently procrastinating something by being here*
+
+*i use arch btw*
